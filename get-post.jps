@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+	<title>Exercicio3</title>
+</head>
+<body>
+	<h3>Clique no botão abaixo para saber o nome da aluna:</h3>
+	<a href = "ServletMariaClara"></a><br><br>
+	<form action = "ServletMariaClara" method = "post">
+		<input type="submit" value ="Qual meu nome?">
+	</form>
+	</body>
+</html>
